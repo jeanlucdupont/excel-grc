@@ -8,10 +8,10 @@ You're an SMB and need to perform a risk assessment but you don't have the money
 
 <br><br><br><br>
 
-The Excel sheet comes with a sample risk assessment. Once you read the sample risk assessment, you'll understand how it works.
+The Excel sheet comes with a sample risk assessment. **read the sample risk assessment and you'll understand how Excel GRC works**.
 
 <br><br><br><br>
-All the inputs are done in the "assessment" tab. For each risk, provide:
+All the inputs are done in the _assessment_ tab. For each risk, provide:
 - A risk id (any text)
 - The impacted asset and the asset owner.
 - A scenario (something bad could happen to this asset)
@@ -45,8 +45,8 @@ And that's it! If you want to add more risks, copy paste the last 22 lines up to
 ![image](https://user-images.githubusercontent.com/103344686/180675949-1cc0d25a-b348-4d26-9651-89074cb55427.png)
 
 <br><br><br><br>
-- Your risk register is automatically filled in the "Risk" tab.
-- Your risk mapping is automatically filled in the "Map" tab.
+- Your **risk register** is automatically filled in the _Risk_ tab.
+- Your **risk mapping** is automatically filled in the _Map_ tab.
 
 ![image](https://user-images.githubusercontent.com/103344686/180676219-4a179d9b-b400-499e-b2d1-99fa6c8ef60f.png)
 
