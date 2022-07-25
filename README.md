@@ -1,5 +1,5 @@
 # excel-grc
-You're an SMB and need to perform a risk assessment but you don't have the money or resources for those fancy GRC tools like RSA Archer or Logic Manager? Don't fret! Excel comes to the rescue. Introducing Excel GRC. Describe you risk and get your risk register and risk mapping automagically generated thanks to the power of Excel macros.
+You're an SMB and need to perform a risk assessment but you don't have the money or resources for those fancy GRC tools like RSA Archer or Logic Manager? Don't fret! Excel comes to the rescue. **Introducing Excel GRC**. Describe you risk and get your risk register and risk mapping automagically generated thanks to the power of Excel macros.
 <br><br>
 
 
@@ -8,7 +8,7 @@ You're an SMB and need to perform a risk assessment but you don't have the money
 
 <br><br><br><br>
 
-The Excel sheet comes with a sample risk assessment. Once you read the sample risk assessment, you understand how it works.
+The Excel sheet comes with a sample risk assessment. Once you read the sample risk assessment, you'll understand how it works.
 
 <br><br><br><br>
 All the inputs are done in the "assessment" tab. For each risk, provide:
